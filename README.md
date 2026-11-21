@@ -50,6 +50,6 @@ Run the Phishing Scanner:
 
 Bash
 python phishing_scanner.py
-Run the Socket Chat Application:
+
 
 
