@@ -39,7 +39,7 @@ A collection of lightweight, custom Python utilities designed for automated secu
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/kajal-yadav3311/cs-toolkit.git](https://github.com/your-username/cs-toolkit.git)
+   git clone [https://github.com/kajal-yadav3311/cs-toolkit.git](https://github.com/kajal-yadav3311/cs-toolkit.git)
    cd cs-toolkit
 
    Run the Sensitive Data Scanner:
@@ -51,10 +51,5 @@ Run the Phishing Scanner:
 Bash
 python phishing_scanner.py
 Run the Socket Chat Application:
-Open Terminal 1 and start the server:
 
-python server.py
 
-* Open Terminal 2 and start the client:
-```bash
-python client.py
